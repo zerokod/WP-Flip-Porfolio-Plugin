@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-flip-Portfolio\n"
+"POT-Creation-Date: 2014-05-08 00:10+0100\n"
+"PO-Revision-Date: 2014-05-08 00:11+0100\n"
+"Last-Translator: roberta <webdevelopers@tiscali.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BFI_Thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+"Il server non dispone di ImageMagick o GD installati e / o abilitati! Ognuna "
+"di queste librerie sono necessarie a WordPress per essere in grado di "
+"ridimensionare le immagini. Si prega di contattare l'amministratore del "
+"server per abilitare questa prima di continuare."
+
+#: BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr "Rotazione immagine non riuscita."
+
+#: BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr "Cambio opacità immagine non riuscito"
+
+#: BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr "Cambio colore immagine non riuscito"
+
+#: BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr "scala di grigi immagine non riuscita"
+
+#: BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr "negativo immagine non riuscito"
+
+#: wp-flip-portfolio.php:47
+msgid ""
+"Error: plugin \"wp-flip-portfolio\" requires a newer version of PHP to "
+"be running."
+msgstr ""
+"Errore: plug-in  wp-flip-portfolio richiede una nuova versione di PHP  "
+"in esecuzione."
+
+#: wp-flip-portfolio.php:48
+msgid "Minimal version of PHP required: "
+msgstr "Versione minima di PHP richiesta:"
+
+#: wp-flip-portfolio.php:49
+msgid "Your server's PHP version: "
+msgstr "Versione PHP del server:"
+
+#: wpflip__LifeCycle.php:106
+msgid "Layout width"
+msgstr "Larghezza del layout"
+
+#: wpflip__LifeCycle.php:107
+msgid "Enter Boxed width size"
+msgstr "Immettere formato di larghezza Boxed layout"
+
+#: wpflip__LifeCycle.php:108
+msgid "Enter in Items number each row"
+msgstr "numero di articoli ogni riga"
+
+#: wpflip__LifeCycle.php:109
+msgid "Can See Submission data"
+msgstr "Possibile visualizzare i dati"
+
+#: wpflip__LifeCycle.php:111
+msgid "choose image thumbnail height in percentage  in relation to width"
+msgstr ""
+"Scegliere l'altezza  in percentuale  della miniatura rispetto alla larghezza"
+
+#: wpflip__LifeCycle.php:113
+msgid "Enter rollover color esadecimal"
+msgstr "Inserisci colore esadecimale rollover"
+
+#: wpflip__LifeCycle.php:114
+msgid "Enter rollover Text color esadecimal"
+msgstr "Inserisci  di colore esadecimale nel rollover testo"
+
+#: wpflip__LifeCycle.php:115
+msgid "Enter big image width"
+msgstr "Inserisci larghezza dell'immagine grande"
+
+#: wpflip__LifeCycle.php:116
+msgid "Enter big image height"
+msgstr "Inserisci altezza dell'immagine grande"
+
+#: wpflip__LifeCycle.php:118
+msgid "Drop this plugin's Database table and options on uninstall"
+msgstr ""
+"Elimina tabella database e opzioni memorizzate nella disattivazione del "
+"plugin"
+
+#: wpflip__LifeCycle.php:119
+msgid "Choose the rollover Effect for portfolio Items"
+msgstr "Scegliere l'effetto di rollover per gli elementi del portfolio"
+
+#: wpflip__LifeCycle.php:121
+msgid "Enter top coordinate in px for item detail panel"
+msgstr "Inserisci coordinata y in pixel per il dettaglio portfolio "
+
+#: wpflip__OptionsManager.php:295 wpflip__Plugin.php:1341
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Non si dispone di autorizzazioni sufficienti per accedere a questa pagina."
+
+#: wpflip__OptionsManager.php:313
+msgid "System Settings"
+msgstr "Impostazioni di sistema"
+
+#: wpflip__OptionsManager.php:315
+msgid "System"
+msgstr "Sistema"
+
+#: wpflip__OptionsManager.php:316
+msgid "PHP Version"
+msgstr "Versione PHP"
+
+#: wpflip__OptionsManager.php:321
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP "
+"5.2)"
+msgstr ""
+"(ATTENZIONE: Questo plugin potrebbe non funzionare correttamente con le "
+"versioni precedenti di PHP 5.2)"
+
+#: wpflip__OptionsManager.php:327
+msgid "MySQL Version"
+msgstr "Versione MySQL"
+
+#: wpflip__OptionsManager.php:332
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+"(ATTENZIONE: Questo plugin potrebbe non funzionare correttamente con le "
+"versioni precedenti di MySQL 5.0)"
+
+#: wpflip__OptionsManager.php:340
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: wpflip__OptionsManager.php:363
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: wpflip__OptionsManager.php:421
+msgid "true"
+msgstr "vero"
+
+#: wpflip__OptionsManager.php:423
+msgid "false"
+msgstr "falso"
+
+#: wpflip__OptionsManager.php:426
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: wpflip__OptionsManager.php:428
+msgid "Editor"
+msgstr "Editore"
+
+#: wpflip__OptionsManager.php:430
+msgid "Author"
+msgstr "Autore"
+
+#: wpflip__OptionsManager.php:432
+msgid "Contributor"
+msgstr "Collaboratore"
+
+#: wpflip__OptionsManager.php:434
+msgid "Subscriber"
+msgstr "Sottoscrittore"
+
+#: wpflip__OptionsManager.php:436
+msgid "Anyone"
+msgstr "Anyone"
+
+#: wpflip__OptionsManager.php:482
+msgid "ADD CATEGORY"
+msgstr "AGGIUNGI CATEGORIA"
+
+#: wpflip__OptionsManager.php:491 wpflip__OptionsManager.php:905
+msgid "Category"
+msgstr "Categoria"
+
+#: wpflip__OptionsManager.php:504
+msgid "CATEGORIES"
+msgstr "CATEGORIE"
+
+#: wpflip__OptionsManager.php:671
+msgid "Portfolio Items"
+msgstr "Elementi portfolio"
+
+#: wpflip__OptionsManager.php:678 wpflip__Plugin.php:1386
+msgid "Categories"
+msgstr "Categorie"
+
+#: wpflip__OptionsManager.php:681
+msgid "title"
+msgstr "titolo"
+
+#: wpflip__OptionsManager.php:684 wpflip__OptionsManager.php:956
+msgid "description"
+msgstr "Descrizione"
+
+#: wpflip__OptionsManager.php:687
+msgid "work"
+msgstr "ruolo"
+
+#: wpflip__OptionsManager.php:690
+msgid "image"
+msgstr "immagine"
+
+#: wpflip__OptionsManager.php:694
+msgid "actions"
+msgstr "azioni"
+
+#: wpflip__OptionsManager.php:734
+msgid "Delete item"
+msgstr "elimina elemento"
+
+#: wpflip__OptionsManager.php:738
+msgid "Modify item"
+msgstr "Modifica elemento"
+
+#: wpflip__OptionsManager.php:898
+msgid "ADD PORTFOLIO ITEM"
+msgstr "AGGIUNGI ELEMENTO PORTFOLIO"
+
+#: wpflip__OptionsManager.php:920
+msgid "Add Categories"
+msgstr "Aggiungi categorie"
+
+#: wpflip__OptionsManager.php:941
+msgid "Remove Categories"
+msgstr "Rimuovi Categorie"
+
+#: wpflip__OptionsManager.php:948
+msgid "Title"
+msgstr "titolo"
+
+#: wpflip__OptionsManager.php:963
+msgid "Work"
+msgstr "Ruolo"
+
+#: wpflip__OptionsManager.php:970
+msgid "Image"
+msgstr "Immagine"
+
+#: wpflip__OptionsManager.php:980
+msgid "Upload Files"
+msgstr "Carica file"
+
+#: wpflip__OptionsManager.php:983
+msgid "Image Location"
+msgstr "Posizione immagine"
+
+#: wpflip__OptionsManager.php:986
+msgid "Upload Image"
+msgstr "Carica immagine"
+
+#: wpflip__OptionsManager.php:987
+msgid "Enter the image location or upload an image from your computer."
+msgstr ""
+"Immettere il percorso dell'immagine o caricare un'immagine dal vostro "
+"computer."
+
+#: wpflip__Plugin.php:1387
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: wpflip__Plugin.php:1388
+msgid "Add Portfolio item"
+msgstr "Aggiungi nuovo elemento Portfolio"
+
+#: wpflip__Plugin.php:1389
+msgid "Options"
+msgstr "Opzioni"
